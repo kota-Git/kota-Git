@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Edunetfoundation**
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 Skills **Python**,**SQL**,**Statistics**,**Machine learning**,**Deeplearning**,**Computervision**, ****NLP**,**Generative AI**,**MongoDB**,**VectorDB**,**AWS**,**HTML**,**CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kota-Git?tab=repositories](https://github.com/kota-Git?tab=repositories)
 
