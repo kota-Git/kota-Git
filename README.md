@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakshmanarao Kota</h1>
-<h3 align="center">I'm Assosicate DataScientist  at SriTulasiEtechpvtltd</h3>
+<h3 align="center">I'm  Assosicate DataScientist  at Sri Tulasi Edutechpvtltd</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kota-git&label=Profile%20views&color=0e75b6&style=flat" alt="kota-git" /> </p>
 
