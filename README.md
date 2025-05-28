@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lakshmanarao Kota</h1>
-<h3 align="center">I'm  Assosicate DataScientist  at Sri Tulasi Edutechpvtltd</h3>
+<h3 align="center">I'm   DataScientist  at L&L aisolutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kota-git&label=Profile%20views&color=0e75b6&style=flat" alt="kota-git" /> </p>
 
-- 🔭 I’m currently working on **Edunetfoundation**
+- 🔭 I’m currently working on **L&L aisolutions**
 
 - 🌱 Skills    **Python**   , **SQL** , **Statistics** , **Machine learning** , **Deeplearning** , **Computervision** , **NLP**, **Generative AI**, **MongoDB** , **VectorDB** , **AWS** , **HTML** , **CSS**
 
